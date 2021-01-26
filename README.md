@@ -1,8 +1,8 @@
 ### Kessyus Fófano
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working full time as Sales Engineer and whenever I can as Developer
 - 🌱 I’m currently learning MERN Stack
-- 🎯 2021 Goals: contribute more to Open Source projects 
+- 🎯 2021 Goals: contribute more to Open Source projects
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/Him
 
