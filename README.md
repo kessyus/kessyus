@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**kessyus/kessyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Kessyus Fófano
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning MERN Stack
+- 🎯 2021 Goals: contribute more to Open Source projects 
+- 💬 Ask me about anything you want
+- 😄 Pronouns: He/Him
+
+### Connect with me:
+
+[<img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### Languages, systems and Tools:
+
+<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linux.svg" />
+<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/c.svg" />
+<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/cplusplus.svg" />
+<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/javascript.svg" />
+<img align="left" alt="HTML-5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/html5.svg" />
+<img align="left" alt="CSS-3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/css3.svg" />
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/python.svg" />
+<img align="left" alt="Excel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/microsoftexcel.svg" />
+
+[gmail]: mailto:kessyus@gmail.com
+[twitter]: https://twitter.com/kessyusfofano
+[linkedin]: https://linkedin.com/in/kessyus
