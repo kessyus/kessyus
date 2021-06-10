@@ -20,8 +20,6 @@
 ### Languages, systems and tools:
 
 <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/javascript.svg" />
-<img align="left" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/node-dot-js.svg" />
-<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/react.svg" />
 <img align="left" alt="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/postgresql.svg" />
 <img align="left" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/mongodb.svg" />
 <img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/cplusplus.svg" />
