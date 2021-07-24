@@ -1,7 +1,7 @@
 ### Kessyus Fófano
 
 - 🔭 I’m currently working full time as Sales Engineer and whenever I can as Developer
-- 🌱 I’m currently learning Typescript while improving my Javascript
+- 🌱 I’m currently learning Elixir, Phoenix and Erlang.
 - 🎯 2021 Goals: contribute more to Open Source projects
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/Him
