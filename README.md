@@ -1,4 +1,4 @@
-### Kessyus Fófano
+### Kessyus
 
 - 🔭 I’m currently working full time as Sales Engineer and whenever I can as Developer
 - 🌱 I’m currently learning Elixir, Phoenix and Erlang.
