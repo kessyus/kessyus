@@ -6,7 +6,7 @@
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/Him
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kessyus&theme=white-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kessyus&layout=compact&theme=white-green)
 
 ### Connect with me:
 
