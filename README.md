@@ -3,7 +3,7 @@
 - 🔭 I’m currently working full time as Business Development Manager
 - ☁️ I'm a strong advocate of cloud computing adoption
 - 🌱 I like to do OSINT as a hobby
-- 🎯 2021 Goals: contribute more to Open Source projects
+- 🎯 2024 Goals: contribute more to Open Source projects
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/Him
 
