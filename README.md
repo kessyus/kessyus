@@ -1,9 +1,9 @@
 ### Kessyus
 
-- 🔭 I’m currently working full time as Business Development Manager
+- 🔭 I’m currently working full time as Head of Cloud Sales
 - ☁️ I'm a strong advocate of cloud computing adoption
 - 🌱 I like to do OSINT as a hobby
-- 🎯 2024 Goals: contribute more to Open Source projects
+- 🎯 Goals: contribute more to Open Source projects and help the community
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/Him
 
